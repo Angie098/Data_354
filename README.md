@@ -1,6 +1,7 @@
 # Projet Data_354
 
 Ce projet vise à développer un modèle de classification d'images de riz cultivé en Egypte. La classification supervisée s'est faites suivant les classes suivantes : blast, Brown et Healthy. Le modèle est basé sur l'architecture ResNet34 avec l'ajout de mécanisme d'attention.
+
 #Structure 
 **1.Projet_Data.ipynb:** Notebook contenant le code des transformations faites sur l’ensemble de donnée la construction du modèle et les prédictions fait.
 **2.Capture d'écran 2023-12-11:** Capture de la soumission sur Zindi.africa 

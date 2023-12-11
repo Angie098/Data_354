@@ -13,6 +13,7 @@ Ce projet vise à développer un modèle de classification d'images de riz culti
 ***
 
 **MODELISATION**
+
 **Première étape :** Cette étapes a été marquer par l’importation des bibliothèques chargement et traitement des données d’apprentissage.
 
 **Deuxième étape :** Dans cette partie le jeu de donnée d’apprentissage (train.csv)  a été divisé en entrainement et validation, ensuite les transformations d’images ont été définis enfin la creation d’instance des fonction TV_Dataset et DataLoader s’est faite sur les ensembles d’entrainement et validation.

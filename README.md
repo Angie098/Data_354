@@ -5,10 +5,13 @@ Ce projet vise à développer un modèle de classification d'images de riz culti
 ***
 **STRUCTURE**
 
-**1.Projet_Data.ipynb:** Notebook contenant le code des transformations faites sur l’ensemble de donnée la construction du modèle et les prédictions fait.
-**2.Capture d'écran 2023-12-11:** Capture de la soumission sur Zindi.africa 
-**3.submission_results2.csv :** Fichier csv contenant les prédictions du test de notre modèle 
-**4.poids.pth:** Fichier pth contenant les poids du modèle entrainé
+**1.Projet_Data.ipynb:** Notebook contenant le code des transformations faites sur l’ensemble de donnée la construction du modèle et les prédictions fait;
+
+**2.Capture d'écran 2023-12-11:** Capture de la soumission sur Zindi.africa ;
+
+**3.submission_results2.csv :** Fichier csv contenant les prédictions du test de notre modèle ;
+
+**4.poids.pth:** Fichier pth contenant les poids du modèle entrainé.
 
 ***
 

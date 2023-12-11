@@ -10,7 +10,9 @@ Structure
 
 Modélisation
 Première étape : Cette étapes a été marquer par l’importation des bibliothèques chargement et traitement des données d’apprentissage.
+
 Deuxième étape : Dans cette partie le jeu de donnée d’apprentissage (train.csv)  a été divisé en entrainement et validation, ensuite les transformations d’images ont été définis enfin la creation d’instance des fonction TV_Dataset et DataLoader s’est faite sur les ensembles d’entrainement et validation.
+
 Troisième étapes : Définition du module d’attention qui est combiné au modèle ResNet-34 pour effectuer le CNN. Prédiction sur l’ensembles test.csv après les transformations
 
 
